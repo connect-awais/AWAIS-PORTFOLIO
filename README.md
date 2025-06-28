@@ -1,4 +1,4 @@
-# Portfolio of Bilal Younas
+# Portfolio of Awais Yousaf
 
 
 This project was created with CRA (Create React App)
